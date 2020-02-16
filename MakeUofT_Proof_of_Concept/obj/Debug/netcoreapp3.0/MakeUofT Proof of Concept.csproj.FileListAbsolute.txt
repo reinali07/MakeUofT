@@ -1,0 +1,11 @@
+/Users/eveboulanger/Desktop/MakeUofT Proof of Concept/obj/Debug/netcoreapp3.0/MakeUofT Proof of Concept.csprojAssemblyReference.cache
+/Users/eveboulanger/Desktop/MakeUofT Proof of Concept/obj/Debug/netcoreapp3.0/MakeUofT Proof of Concept.AssemblyInfoInputs.cache
+/Users/eveboulanger/Desktop/MakeUofT Proof of Concept/obj/Debug/netcoreapp3.0/MakeUofT Proof of Concept.AssemblyInfo.cs
+/Users/eveboulanger/Desktop/MakeUofT Proof of Concept/bin/Debug/netcoreapp3.0/MakeUofT Proof of Concept
+/Users/eveboulanger/Desktop/MakeUofT Proof of Concept/bin/Debug/netcoreapp3.0/MakeUofT Proof of Concept.deps.json
+/Users/eveboulanger/Desktop/MakeUofT Proof of Concept/bin/Debug/netcoreapp3.0/MakeUofT Proof of Concept.runtimeconfig.json
+/Users/eveboulanger/Desktop/MakeUofT Proof of Concept/bin/Debug/netcoreapp3.0/MakeUofT Proof of Concept.runtimeconfig.dev.json
+/Users/eveboulanger/Desktop/MakeUofT Proof of Concept/bin/Debug/netcoreapp3.0/MakeUofT Proof of Concept.dll
+/Users/eveboulanger/Desktop/MakeUofT Proof of Concept/bin/Debug/netcoreapp3.0/MakeUofT Proof of Concept.pdb
+/Users/eveboulanger/Desktop/MakeUofT Proof of Concept/obj/Debug/netcoreapp3.0/MakeUofT Proof of Concept.dll
+/Users/eveboulanger/Desktop/MakeUofT Proof of Concept/obj/Debug/netcoreapp3.0/MakeUofT Proof of Concept.pdb

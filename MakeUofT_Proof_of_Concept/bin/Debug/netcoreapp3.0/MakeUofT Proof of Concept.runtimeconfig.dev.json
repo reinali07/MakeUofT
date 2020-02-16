@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/eveboulanger/.dotnet/store/|arch|/|tfm|",
+      "/Users/eveboulanger/.nuget/packages"
+    ]
+  }
+}

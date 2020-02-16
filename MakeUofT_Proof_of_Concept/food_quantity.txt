@@ -1,0 +1,14 @@
+apple
+5
+milk carton
+2
+cucumber
+2
+tomato
+3
+cheese
+1
+spinach
+1
+salami
+2
