@@ -1,0 +1,1 @@
+omg -model=Unet_572.pb --framework=3 --output unet_model --input_shape=image_input_Placeholder:1,1,572,572 --insert_op_conf=aipp.config
